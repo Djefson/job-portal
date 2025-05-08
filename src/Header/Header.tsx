@@ -1,9 +1,7 @@
 const Header =()=>{
-    return <div>
-        
+return <div>
         Header
-        
-        
+            
         </div>
 }
 export default Header;

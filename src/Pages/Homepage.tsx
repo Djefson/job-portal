@@ -1,8 +1,8 @@
 import Header from "../Header/Header";
 const Homepage=()=>{
-    return     
-    ( 
+    return  ( 
+    
     <Header/>
     )
 }
-export default Homepage
+export default Homepage;
